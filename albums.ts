@@ -29,6 +29,8 @@ export const albums: AlbumEntry[] = [
   { spotify: "https://open.spotify.com/album/02WH3YQOSzeEwwZK1jQWjX", rating: 5 }, // Love Is Overtaking Me — Arthur Russell
   { spotify: "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b", rating: 5 }, // Pet Sounds — The Beach Boys
   { spotify: "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5", rating: 5 }, // Let It Be (Remastered) — The Beatles
+  { spotify: "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN", rating: 5 }, // Abbey Road — The Beatles
+  { spotify: "https://open.spotify.com/album/1PULmKbHeOqlkIwcDMNwD4", rating: 5 }, // Sgt. Pepper's Lonely Hearts Club Band — The Beatles
   { spotify: "https://open.spotify.com/album/6w7XFtdCQf871KU40Ot1Ra", rating: 5 }, // The Three E.P.'s — The Beta Band
   { spotify: "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY", rating: 5 }, // Dragon New Warm Mountain I Believe In You — Big Thief
   { spotify: "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd", rating: 5 }, // Ants From Up There — Black Country, New Road
