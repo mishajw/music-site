@@ -32,11 +32,11 @@ export const albums: AlbumEntry[] = [
   { spotify: "https://open.spotify.com/album/6w7XFtdCQf871KU40Ot1Ra", rating: 5 }, // The Three E.P.'s — The Beta Band
   { spotify: "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY", rating: 5 }, // Dragon New Warm Mountain I Believe In You — Big Thief
   { spotify: "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd", rating: 5 }, // Ants From Up There — Black Country, New Road
-  { spotify: "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF", rating: 5 }, // Blood On The Tracks — Bob Dylan
+  { spotify: "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF", rating: 4 }, // Blood On The Tracks — Bob Dylan
   { spotify: "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L", rating: 5 }, // Blonde On Blonde — Bob Dylan
   { spotify: "https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA", rating: 5 }, // Keep It like a Secret — Built To Spill
   { spotify: "https://open.spotify.com/album/6DlZzUnITGI5cWGTjIWSBm", rating: 5 }, // Perfect from Now On — Built To Spill
-  { spotify: "https://open.spotify.com/album/20U1UWeGcGq7JVW0tf8yfH", rating: 5 }, // Twin Fantasy — Car Seat Headrest
+  { spotify: "https://open.spotify.com/album/20U1UWeGcGq7JVW0tf8yfH", rating: 4 }, // Twin Fantasy — Car Seat Headrest
   { spotify: "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj", rating: 5 }, // Teens of Denial — Car Seat Headrest
   { spotify: "https://open.spotify.com/album/4Z8nWz3dGybOP7lhMZpcOo", rating: 5 }, // Mingus Ah Um — Charles Mingus
   { spotify: "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6", rating: 5 }, // Black Messiah — D'Angelo
