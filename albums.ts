@@ -81,6 +81,7 @@ export const albums: AlbumEntry[] = [
   { spotify: "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw", rating: 5 }, // Wish You Were Here — Pink Floyd
   { spotify: "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO", rating: 5 }, // Doolittle — Pixies
   { spotify: "https://open.spotify.com/album/0BK1LxNNcaNUtAqTBQAOR8", rating: 5 }, // Bossanova — Pixies
+  { spotify: "https://open.spotify.com/album/2fv7PQkt5BZqwGx21wiSc1", rating: 5 }, // Surfer Rosa — Pixies
   { spotify: "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB", rating: 5 }, // Rid Of Me — PJ Harvey
   { spotify: "https://open.spotify.com/album/4PsIVBsMLjO1d8bKPmkqmF", rating: 5 }, // Tchaikovsky: Swan Lake (Complete) — Pyotr Ilyich Tchaikovsky
   { spotify: "https://open.spotify.com/album/4yPVewn0gc9ZKifSYDMrm7", rating: 5 }, // Tchaikovsky: The Nutcracker: Complete Ballet — Pyotr Ilyich Tchaikovsky
