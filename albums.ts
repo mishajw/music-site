@@ -55,7 +55,7 @@ export const albums: AlbumEntry[] = [
   { spotify: "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH", rating: 5 }, // Aerial (2018 Remaster) — Kate Bush
   { spotify: "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg", rating: 5 }, // The Köln Concert — Keith Jarrett
   { spotify: "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP", rating: 5 }, // To Pimp A Butterfly — Kendrick Lamar
-  { spotify: "https://open.spotify.com/album/3Wfx7URJvY7rGz2xpfyPxU", rating: 5 }, // LCD Soundsystem — LCD Soundsystem
+  { spotify: "https://open.spotify.com/album/3Wfx7URJvY7rGz2xpfyPxU", rating: 4 }, // LCD Soundsystem — LCD Soundsystem
   { spotify: "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X", rating: 5 }, // Sound of Silver — LCD Soundsystem
   { spotify: "https://open.spotify.com/album/2JP9uqlDsW4yqFeCHeOqay", rating: 5 }, // In the Court of the Wrestling Let's — Let's Wrestle
   { spotify: "https://open.spotify.com/album/0c3zBBgS9WArWnEheK4Dy2", rating: 5 }, // Nursing Home — Let's Wrestle
