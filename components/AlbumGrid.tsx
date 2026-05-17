@@ -11,15 +11,6 @@ const NUMBER_WORD: Record<number, string> = {
   1: "one",
 };
 
-function heading(rating: Rating) {
-  if (typeof rating === "string") return <>{rating}</>;
-  return (
-    <>
-      {NUMBER_WORD[rating]} <span className="ratingDenom">/ five</span>
-    </>
-  );
-}
-
 export function AlbumGrid({ albums }: { albums: Album[] }) {
   const groups = groupByRating(albums);
 
@@ -27,7 +18,7 @@ export function AlbumGrid({ albums }: { albums: Album[] }) {
     <>
       {[...groups.entries()].map(([rating, members]) => (
         <section key={rating} className="ratingSection">
-          <h2 className="ratingHeading">{heading(rating)}</h2>
+          <RatingHeading rating={rating} />
           <div className="grid">
             {members.map((album) => (
               <AlbumCard key={album.title + album.artist} album={album} />
@@ -37,5 +28,18 @@ export function AlbumGrid({ albums }: { albums: Album[] }) {
       ))}
       {albums.length === 0 && <p className="empty">nothing here yet</p>}
     </>
+  );
+}
+
+function RatingHeading({ rating }: { rating: Rating }) {
+  if (typeof rating === "string") {
+    return <h2 className="ratingHeading vertical">{rating}</h2>;
+  }
+  return (
+    <h2 className="ratingHeading">
+      {NUMBER_WORD[rating]}
+      <br />
+      <span className="ratingDenom">/ five</span>
+    </h2>
   );
 }
