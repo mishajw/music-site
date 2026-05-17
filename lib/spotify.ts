@@ -28,7 +28,7 @@ function resolve(entry: AlbumEntry): Album {
       rating: entry.rating,
       title: meta?.title ?? "Unknown album",
       artist: meta?.artist ?? "Unknown artist",
-      thumbnail: meta?.thumbnail ?? "",
+      thumbnail: toGridSize(meta?.thumbnail ?? ""),
       href: toAppUri(entry.spotify),
       fallbackHref: entry.spotify,
     };
@@ -41,6 +41,14 @@ function resolve(entry: AlbumEntry): Album {
     href: entry.link ?? "#",
     fallbackHref: entry.link ?? "#",
   };
+}
+
+/**
+ * Spotify encodes the image size in the URL path. Swap the 640×640 code
+ * (b273) for the 300×300 one (1e02) — plenty for a ~150px grid cell.
+ */
+function toGridSize(url: string): string {
+  return url.replace("ab67616d0000b273", "ab67616d00001e02");
 }
 
 function toAppUri(spotifyUrl: string): string {

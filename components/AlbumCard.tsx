@@ -23,6 +23,7 @@ export function AlbumCard({ album }: { album: Album }) {
             width={300}
             height={300}
             loading="lazy"
+            decoding="async"
           />
         ) : (
           <div className="cover coverFallback">♪</div>
