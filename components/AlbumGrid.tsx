@@ -15,9 +15,7 @@ function heading(rating: Rating) {
   if (typeof rating === "string") return <>{rating}</>;
   return (
     <>
-      {NUMBER_WORD[rating]}
-      <br />
-      <span className="ratingDenom">/ five</span>
+      {NUMBER_WORD[rating]} <span className="ratingDenom">/ five</span>
     </>
   );
 }
