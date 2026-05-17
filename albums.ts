@@ -127,6 +127,7 @@ export const albums: AlbumEntry[] = [
   { spotify: "https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs", rating: 4 }, // Extraordinary Machine — Fiona Apple
   { spotify: "https://open.spotify.com/album/5Ua1WwH7wtVGxp9N3AWgow", rating: 4 }, // Yoshimi Battles the Pink Robots — The Flaming Lips
   { spotify: "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8", rating: 4 }, // channel ORANGE — Frank Ocean
+  { spotify: "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf", rating: 4 }, // Blonde — Frank Ocean
   { spotify: "https://open.spotify.com/album/3HsWjdL2LBJfgHlDFJthHL", rating: 4 }, // Pieces Of A Man — Gil Scott-Heron
   { spotify: "https://open.spotify.com/album/57FtCFNPyiqlltBLhFGDYi", rating: 4 }, // Under The Western Freeway — Grandaddy
   { spotify: "https://open.spotify.com/album/7rqgm1BnAZ8I4d6hukpkdg", rating: 4 }, // American Beauty — Grateful Dead
