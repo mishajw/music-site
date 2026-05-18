@@ -79,6 +79,7 @@ export const albums: AlbumEntry[] = [
   { spotify: "https://open.spotify.com/album/4WoQ94qzwQj28n3nlSOVLB", rating: 5 }, // Graceland — Paul Simon
   { spotify: "https://open.spotify.com/album/4RflOKVvzEFCxDlHlT0ZFJ", rating: 5 }, // Mishima — Philip Glass
   { spotify: "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw", rating: 5 }, // Wish You Were Here — Pink Floyd
+  { spotify: "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv", rating: 5 }, // The Dark Side of the Moon — Pink Floyd
   { spotify: "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO", rating: 5 }, // Doolittle — Pixies
   { spotify: "https://open.spotify.com/album/0BK1LxNNcaNUtAqTBQAOR8", rating: 5 }, // Bossanova — Pixies
   { spotify: "https://open.spotify.com/album/2fv7PQkt5BZqwGx21wiSc1", rating: 5 }, // Surfer Rosa — Pixies
