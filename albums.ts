@@ -157,6 +157,7 @@ export const albums: AlbumEntry[] = [
   { spotify: "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo", rating: 4 }, // MOTOMAMI — ROSALÍA
   { spotify: "https://open.spotify.com/album/0hkZGxfsFypXbjq15hM6U9", rating: 4 }, // Original Pirate Material — The Streets
   { spotify: "https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u", rating: 4 }, // A Grand Don't Come for Free — The Streets
+  { spotify: "https://open.spotify.com/album/1YnyKib5MeZf95KY5GHvxc", rating: 4 }, // Murals — Sun Kil Moon
   { spotify: "https://open.spotify.com/album/3ogNAkUhvQy0cFOfLoR6Y8", rating: 4 }, // Whack World — Tierra Whack
   { spotify: "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o", rating: 4 }, // Flower Boy — Tyler, The Creator
   { spotify: "https://open.spotify.com/album/1IgZxMsdWaIoYyMUGrO53Y", rating: 4 }, // Violent Femmes — Violent Femmes
