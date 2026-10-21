@@ -157,7 +157,6 @@ export const albums: AlbumEntry[] = [
   { spotify: "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo", rating: 4 }, // MOTOMAMI — ROSALÍA
   { spotify: "https://open.spotify.com/album/0hkZGxfsFypXbjq15hM6U9", rating: 4 }, // Original Pirate Material — The Streets
   { spotify: "https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u", rating: 4 }, // A Grand Don't Come for Free — The Streets
-  { spotify: "https://open.spotify.com/album/1YnyKib5MeZf95KY5GHvxc", rating: 4 }, // Murals — Sun Kil Moon
   { spotify: "https://open.spotify.com/album/3ogNAkUhvQy0cFOfLoR6Y8", rating: 4 }, // Whack World — Tierra Whack
   { spotify: "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o", rating: 4 }, // Flower Boy — Tyler, The Creator
   { spotify: "https://open.spotify.com/album/1IgZxMsdWaIoYyMUGrO53Y", rating: 4 }, // Violent Femmes — Violent Femmes
@@ -234,6 +233,7 @@ export const albums: AlbumEntry[] = [
   { spotify: "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A", rating: 3 }, // Knock Knock — Smog
   { spotify: "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM", rating: 3 }, // A Seat at the Table — Solange
   { spotify: "https://open.spotify.com/album/338T7GIYUEuyeeHeZnSJta", rating: 3 }, // Marry Me — St. Vincent
+  { spotify: "https://open.spotify.com/album/1YnyKib5MeZf95KY5GHvxc", rating: 3 }, // Murals — Sun Kil Moon
   { spotify: "https://open.spotify.com/album/4dq7JNcHKrnozzFQg5bpmn", rating: 3 }, // To Be Kind — Swans
   { spotify: "https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79", rating: 3 }, // Laughing Stock — Talk Talk
   { spotify: "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv", rating: 3 }, // Currents — Tame Impala
